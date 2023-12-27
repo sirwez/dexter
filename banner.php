@@ -1,6 +1,6 @@
 <?php
 
-$banner = $GET['banner'];
+$banner = $_GET['banner'];
 $title = "";
 if($banner == 1){
     $title = "
